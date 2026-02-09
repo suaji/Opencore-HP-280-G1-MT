@@ -1,0 +1,344 @@
+{
+    "Motherboard": {
+        "Name": "HP HP 280 G1 MT",
+        "Chipset": "H81",
+        "Platform": "Desktop"
+    },
+    "BIOS": {
+        "Version": "80.30",
+        "Release Date": "2019-09-18",
+        "System Type": "x64-based",
+        "Firmware Type": "UEFI",
+        "Secure Boot": "Disabled"
+    },
+    "CPU": {
+        "Manufacturer": "Intel",
+        "Processor Name": "Intel(R) Core(TM) i3-4150",
+        "Codename": "Haswell",
+        "Core Count": "02",
+        "CPU Count": "01",
+        "SIMD Features": "SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2"
+    },
+    "GPU": {
+        "Microsoft Basic Display Adapter": {
+            "Manufacturer": "Intel",
+            "Codename": "Haswell",
+            "Device ID": "8086-041E",
+            "Device Type": "Integrated GPU",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x2,0x0)",
+            "ACPI Path": "\\_SB.PCI0.GFX0",
+            "Resizable BAR": "Disabled"
+        }
+    },
+    "Monitor": {
+        "HP LV1911": {
+            "Connector Type": "Uninitialized",
+            "Resolution": "1366x1024",
+            "Connected GPU": "Microsoft Basic Display Adapter"
+        }
+    },
+    "Network": {
+        "Realtek PCIe GBE Family Controller #3": {
+            "Bus Type": "PCI",
+            "Device ID": "10EC-8168",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1c,0x3)/Pci(0x0,0x0)",
+            "ACPI Path": "\\_SB.PCI0.RP04.PXSX"
+        }
+    },
+    "Sound": {
+        "Realtek High Definition Audio": {
+            "Bus Type": "HDAUDIO",
+            "Device ID": "10EC-0221",
+            "Subsystem ID": "103C2B34",
+            "Controller Device ID": "8086-8C20"
+        }
+    },
+    "USB Controllers": {
+        "Intel(R) 8 Series/C220 Series USB EHCI #2 - 8C2D": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C2D",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1a,0x0)",
+            "ACPI Path": "\\_SB.PCI0.EHC2"
+        },
+        "Intel(R) 8 Series/C220 Series USB EHCI #1 - 8C26": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C26",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1d,0x0)",
+            "ACPI Path": "\\_SB.PCI0.EHC1"
+        },
+        "Intel(R) USB 3.0 eXtensible Host Controller - 1.0 (Microsoft)": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C31",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x14,0x0)",
+            "ACPI Path": "\\_SB.PCI0.XHC_"
+        }
+    },
+    "Input": {
+        "USB Input Device": {
+            "Bus Type": "USB",
+            "Device ID": "0461-554A"
+        },
+        "Mouse": {
+            "Bus Type": "USB",
+            "Device ID": "046D-C077"
+        }
+    },
+    "System Devices": {
+        "System timer": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0100",
+            "ACPI Path": "\\_SB.PCI0.LPCB.TIMR"
+        },
+        "System board": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C01",
+            "ACPI Path": "\\_SB.PCI0.TPMX"
+        },
+        "Motherboard resources": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C02",
+            "ACPI Path": "\\_SB.PCI0.PDRC"
+        },
+        "Motherboard resources_#1": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C02",
+            "ACPI Path": "\\_SB.PCI0.LPCB.LDRC"
+        },
+        "Motherboard resources_#2": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C02",
+            "ACPI Path": "\\_SB.PCI0.LPCB.LDR2"
+        },
+        "ACPI Fan": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0B",
+            "ACPI Path": "\\_SB.FAN0"
+        },
+        "ACPI Fan_#1": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0B",
+            "ACPI Path": "\\_SB.FAN1"
+        },
+        "ACPI Fan_#2": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0B",
+            "ACPI Path": "\\_SB.FAN2"
+        },
+        "ACPI Fan_#3": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0B",
+            "ACPI Path": "\\_SB.FAN3"
+        },
+        "ACPI Fan_#4": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0B",
+            "ACPI Path": "\\_SB.FAN4"
+        },
+        "ACPI Processor Aggregator": {
+            "Bus Type": "ACPI",
+            "Device": "ACPI000C",
+            "ACPI Path": "\\_SB.PAGD"
+        },
+        "PCI Express Root Port": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-0C01",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1,0x0)",
+            "ACPI Path": "\\_SB.PCI0.PEG0"
+        },
+        "Volume Manager": {
+            "Bus Type": "ROOT",
+            "Device": "VOLMGR"
+        },
+        "Microsoft Basic Display Driver": {
+            "Bus Type": "ROOT",
+            "Device": "BASICDISPLAY"
+        },
+        "ACPI Sleep Button": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0E",
+            "ACPI Path": "\\_SB.SLPB"
+        },
+        "ACPI Thermal Zone": {
+            "Bus Type": "ACPI",
+            "Device": "THERMALZONE",
+            "ACPI Path": "\\_SB.TZ00"
+        },
+        "ACPI Thermal Zone_#1": {
+            "Bus Type": "ACPI",
+            "Device": "THERMALZONE",
+            "ACPI Path": "\\_SB.TZ01"
+        },
+        "Microsoft Windows Management Interface for ACPI": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C14",
+            "ACPI Path": "\\_SB.WMID"
+        },
+        "High precision event timer": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0103",
+            "ACPI Path": "\\_SB.PCI0.LPCB.HPET"
+        },
+        "Composite Bus Enumerator": {
+            "Bus Type": "ROOT",
+            "Device": "COMPOSITEBUS"
+        },
+        "Microsoft Virtual Drive Enumerator": {
+            "Bus Type": "ROOT",
+            "Device": "VDRVROOT"
+        },
+        "System CMOS/real time clock": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0B00",
+            "ACPI Path": "\\_SB.PCI0.LPCB.RTC_"
+        },
+        "UMBus Root Bus Enumerator": {
+            "Bus Type": "ROOT",
+            "Device": "UMBUS"
+        },
+        "Intel(R) Management Engine Interface ": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C3A",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x16,0x0)",
+            "ACPI Path": "\\_SB.PCI0.HECI"
+        },
+        "PCI standard host CPU bridge": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-0C00",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x0,0x0)"
+        },
+        "Programmable interrupt controller": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0000",
+            "ACPI Path": "\\_SB.PCI0.LPCB.IPIC"
+        },
+        "PCI Express Root Complex": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0A08",
+            "ACPI Path": "\\_SB.PCI0"
+        },
+        "Motherboard resources_#3": {
+            "Bus Type": "ACPI",
+            "Device": "INT3F0D",
+            "ACPI Path": "\\_SB.PCI0.LPCB.CWDT"
+        },
+        "Microsoft ACPI-Compliant System": {
+            "Bus Type": "ACPI_HAL",
+            "Device": "PNP0C08"
+        },
+        "Microsoft Basic Render Driver": {
+            "Bus Type": "ROOT",
+            "Device": "BASICRENDER"
+        },
+        "Direct memory access controller": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0200",
+            "ACPI Path": "\\_SB.PCI0.LPCB.DMAC"
+        },
+        "Intel(R) 8 Series/C220 Series PCI Express Root Port #4 - 8C16": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C16",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1c,0x3)",
+            "ACPI Path": "\\_SB.PCI0.RP04"
+        },
+        "Microsoft UEFI-Compliant System": {
+            "Bus Type": "ACPI_HAL",
+            "Device": "UEFI"
+        },
+        "ACPI Fixed Feature Button": {
+            "Bus Type": "ACPI",
+            "Device": "FIXEDBUTTON"
+        },
+        "High Definition Audio Controller": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C20",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1b,0x0)",
+            "ACPI Path": "\\_SB.PCI0.HDEF"
+        },
+        "Motherboard resources_#4": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C02",
+            "ACPI Path": "\\_SB.PCI0.LPCB.RMSC"
+        },
+        "ACPI Power Button": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C0C",
+            "ACPI Path": "\\_SB.PWRB"
+        },
+        "Numeric data processor": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C04",
+            "ACPI Path": "\\_SB.PCI0.LPCB.MATH"
+        },
+        "NDIS Virtual Network Adapter Enumerator": {
+            "Bus Type": "ROOT",
+            "Device": "NDISVIRTUALBUS"
+        },
+        "Intel(R) 8 Series/C220 Series PCI Express Root Port #1 - 8C10": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C10",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1c,0x0)",
+            "ACPI Path": "\\_SB.PCI0.RP01"
+        },
+        "Intel(R) H81 LPC Controller - 8C5C": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C5C",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1f,0x0)",
+            "ACPI Path": "\\_SB.PCI0.LPCB"
+        },
+        "Intel(R) 8 Series/C220 Series PCI Express Root Port #5 - 8C18": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C18",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1c,0x4)",
+            "ACPI Path": "\\_SB.PCI0.RP05"
+        },
+        "Motherboard resources_#5": {
+            "Bus Type": "ACPI",
+            "Device": "PNP0C02",
+            "ACPI Path": "\\_SB.PCI0.LPCB.SIO1"
+        },
+        "Intel(R) 8 Series/C220 Series SMBus Controller - 8C22": {
+            "Bus Type": "PCI",
+            "Device ID": "8086-8C22",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1f,0x3)",
+            "ACPI Path": "\\_SB.PCI0.SBUS"
+        },
+        "Microsoft System Management BIOS Driver": {
+            "Bus Type": "ROOT",
+            "Device": "MSSMBIOS"
+        },
+        "Legacy device": {
+            "Bus Type": "ACPI",
+            "Device": "INT0800",
+            "ACPI Path": "\\_SB.PCI0.LPCB.FWHD"
+        },
+        "PCI-to-PCI Bridge": {
+            "Bus Type": "PCI",
+            "Device ID": "1283-8893",
+            "Subsystem ID": "2B34103C",
+            "PCI Path": "PciRoot(0x0)/Pci(0x1c,0x4)/Pci(0x0,0x0)",
+            "ACPI Path": "\\_SB.PCI0.RP05.PXSX"
+        },
+        "Plug and Play Software Device Enumerator": {
+            "Bus Type": "ROOT",
+            "Device": "SYSTEM"
+        },
+        "Remote Desktop Device Redirector Bus": {
+            "Bus Type": "ROOT",
+            "Device": "RDPBUS"
+        }
+    }
+}
