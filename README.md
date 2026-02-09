@@ -63,11 +63,11 @@ e) ROM					x2	Line.632, 659.<br>
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://microless.com/cdn/products/9f53ed3c2f0dd7f945f59f445459e6a8-hi.jpg" width="50%" />
+  <img src="https://microless.com/cdn/products/9f53ed3c2f0dd7f945f59f445459e6a8-hi.jpg" width="50%" height="70%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-280-G1-MT/refs/heads/main/Neofetch.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-280-G1-MT/refs/heads/main/Neofetch.png" width="50%" height="70%" />
 </p>
 
 ---
