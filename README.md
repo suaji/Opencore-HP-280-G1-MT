@@ -64,16 +64,11 @@ e) ROM					x2	Line.632, 659.<br>
 ## 📸 Screenshots
 <p align="center">
   <img src="https://microless.com/cdn/products/9f53ed3c2f0dd7f945f59f445459e6a8-hi.jpg" style="width:300px; height:auto;" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-280-G1-MT/refs/heads/main/Neofetch.png" style="width:300px; height:auto;" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-ProDesk-400-G2-MT/refs/heads/main/Catalina.png" style="width:300px; height:auto;" />
 </p>
 
 <p align="center">
-  <img src="https://microless.com/cdn/products/9f53ed3c2f0dd7f945f59f445459e6a8-hi.jpg" width="300" height="200" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-280-G1-MT/refs/heads/main/Neofetch.png" width="300" height="200" />
-  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-ProDesk-400-G2-MT/refs/heads/main/Catalina.png" width="300" height="200" />
+  <img src="https://raw.githubusercontent.com/suaji/Opencore-HP-280-G1-MT/refs/heads/main/Neofetch.png" style="width:300px; height:auto;" />
 </p>
-
 
 ---
 
